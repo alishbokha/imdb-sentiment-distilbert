@@ -91,7 +91,9 @@ DistilBERT is a smaller and faster version of BERT that retains much of BERT's l
 
 The pretrained DistilBERT model was fine-tuned for a **binary classification task**:
 
-```text
 
+## 🚀 Live Demo
 
-[Click here to try the IMDb Sentiment Analysis App](https://imdb-sentiment-distilbert.streamlit.app/)
+🌐 
+
+https://imdb-sentiment-distilbert.streamlit.app/
