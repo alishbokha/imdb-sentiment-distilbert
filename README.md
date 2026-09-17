@@ -95,7 +95,6 @@ The pretrained DistilBERT model was fine-tuned for a **binary classification tas
 0 → Negative
 1 → Positive
 
-
 ## 🚀 Live Demo
 
-[https://imdb-sentiment-distilbert.streamlit.app/](https://imdb-sentiment-distilbert.streamlit.app/)
+[Click here to try the IMDb Sentiment Analysis App](https://imdb-sentiment-distilbert.streamlit.app/)
